@@ -2,6 +2,9 @@
 
 This project follows the principles of Hexagonal Architecture, also known as Ports and Adapters, to build a modular and flexible application.
 
+![image](https://github.com/ysinjab/go-template-hexagonal/assets/3217677/20ce35bd-047f-4d9f-94e4-f60c48536ae9)
+
+
 ## Overview
 
 The Hexagonal Architecture promotes a clear separation of concerns by dividing the application into three main layers:
